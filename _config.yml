@@ -5,6 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Helpful Sites
+# (1) https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# (2) https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+# (3) https://github.com/mmistakes/minimal-mistakes
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -108,7 +113,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
  # bio              : "I am an **amazing** person."
   location         : "Seoul, South Korea"
-  email            :
+ # email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
